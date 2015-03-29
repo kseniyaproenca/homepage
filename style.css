@@ -218,7 +218,7 @@ ul h4 {
 }
 
 #page .section-list {
-	list-style: none;
+/* 	list-style: none; */
 	padding-left: 0;
 }
 
@@ -228,8 +228,14 @@ ul h4 {
 }
 
 #page ul {
-	list-style: none;
+/* 	list-style: none; */
+  padding-left: 20px;
 }
+
+#col1 ul {
+  padding-left: 0;
+}
+
 
 #page ul li {
 	padding: 10px 0 10px 0;
